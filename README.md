@@ -1,8 +1,8 @@
-# PDDT
+# AstroSPARK
 
 
 
-**PDDT: Psrfits Data Deal Tool**
+**SPARK**: Spinning Pulsar And Radio Transient worKbench
 
 ### 
 
